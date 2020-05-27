@@ -1,0 +1,36 @@
+.logoye
+{
+    width: 50px;
+    height: 40px;
+}
+
+.img-cen
+{
+    margin-top: 10px;
+    width: 500px;
+    height: 300px;
+}
+
+.img-music
+{
+    width: 100px;
+    height: 100px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#music2
+{
+    width: 100%;
+}
+
+footer .piecsecion
+{
+ margin-top: 14px;
+
+}
+
+.error {
+    color: red
+  }
